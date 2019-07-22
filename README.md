@@ -3,16 +3,17 @@ This repository contains full cleaned scoreboard data from the ICPC. Scripts tha
 
 ## Data content
 The data contains files for the regional finals, from 2012-2018 (with a few exceptions), for the World Finals, European, Latin American, South Pacific and most of the North American contests. More specific, the following competitions are in this dataset:
+
 _Unless indicated, all years are present_
 
-#### Europe
+##### Europe
 * Central European Regional Contest (CERC)
 * Northeast European Regional Contest (NEERC)
 * Northwest European Regional Contest (NWERC)
 * Southeast European Regional Contest (SEERC)
 * Southwest European Regional Contest (SWERC)
 
-#### North America
+##### North America
 * East-Central North American Regional Contest 
 * Greater New York Regional Contest 
 * Mid-Atlantic USA Regional Contest 
@@ -25,6 +26,17 @@ _Unless indicated, all years are present_
 * Southeast USA Regional Contest (2014 is missing)
 * Southern California Regional Contest 
 
-#### Latin America
-#### South Pacific
-#### World Finals
+##### Latin America
+##### South Pacific
+##### World Finals
+
+
+## Data structure
+The data is structured as is described in the ERD below.
+
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/data_structure.png "Data structure")
+
+## Data processing
+The following general pipeline was used to process the data WIP
+
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/data_processing_steps.png "Data structure")
