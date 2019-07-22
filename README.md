@@ -34,9 +34,9 @@ _Unless indicated, all years are present_
 ## Data structure
 The data is structured as is described in the ERD below.
 
-![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/data_structure.png "Data structure")
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/tree/master/images/data_structure.png "Data structure")
 
 ## Data processing
 The following general pipeline was used to process the data WIP
 
-![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/data_processing_steps.png "Data structure")
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/tree/master/images/data_processing_steps.png "Data structure")
