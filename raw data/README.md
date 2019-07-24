@@ -1,8 +1,9 @@
 ## Description
-This folder contains all raw data as collected from the following sources           
-|                     |      |                                                                                                                | 
-|---------------------|------|----------------------------------------------------------------------------------------------------------------| 
+This folder contains all raw data as collected from the following sources  
+
+
 | Competition         | Year | Source                                                                                                         | 
+|---------------------|------|----------------------------------------------------------------------------------------------------------------| 
 | World Finals        | 2018 | https://web.archive.org/web/20180424212750/https://icpc.baylor.edu/scoreboard/                                 | 
 |                     | 2017 | http://static.kattis.com/icpc/wf2017/                                                                          | 
 |                     | 2016 | http://board.acmicpc.info/icpc2016/board.php                                                                   | 
@@ -141,4 +142,3 @@ This folder contains all raw data as collected from the following sources
 |                     | 2014 | http://socalcontest.org/history/2014/details-2014.shtml                                                        | 
 |                     | 2013 | http://socalcontest.org/history/2013/details-2013.shtml                                                        | 
 |                     | 2012 | http://socalcontest.org/history/2012/details-2012.shtml                                                        | 
-
