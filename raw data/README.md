@@ -1,7 +1,6 @@
 ## Description
-This folder contains all raw data as collected from the following sources:
+This folder contains all raw data as collected from the following sources           
 
-|                     |      |                                                                                                                | 
 |---------------------|------|----------------------------------------------------------------------------------------------------------------| 
 | Competition         | Year | Source                                                                                                         | 
 | World Finals        | 2018 | https://web.archive.org/web/20180424212750/https://icpc.baylor.edu/scoreboard/                                 | 
@@ -11,7 +10,7 @@ This folder contains all raw data as collected from the following sources:
 |                     | 2014 | http://board.acmicpc.info/icpc2014/board.php                                                                   | 
 |                     | 2013 | http://board.acmicpc.info/icpc2013/board.php                                                                   | 
 |                     | 2012 | http://board.acmicpc.info/icpc2012/board.php                                                                   | 
-|                     |      |                                                                                                                | 
+| **Europe**                    |      |                                                                                                                | 
 | Central Europe      | 2018 | https://contest.felk.cvut.cz/18cerc/rank.html                                                                  | 
 |                     | 2017 | https://contest.felk.cvut.cz/17cerc/rank.html                                                                  | 
 |                     | 2016 | http://cerc.hsin.hr/2016/                                                                                      | 
@@ -47,7 +46,7 @@ This folder contains all raw data as collected from the following sources:
 |                     | 2014 | https://swerc.eu/2017/theme/cached/2014/                                                                       | 
 |                     | 2013 | https://swerc.eu/2017/theme/cached/2013/                                                                       | 
 |                     | 2012 | https://swerc.eu/2017/theme/cached/2012/                                                                       | 
-|                     |      |                                                                                                                | 
+|  **Latin America**                    |      |                                                                                                                | 
 | Latin America       | 2018 | http://maratona.ime.usp.br/resultados18/                                                                       | 
 |                     | 2017 | http://www.bombonera.org/oldboards/score2017/score/                                                            | 
 |                     | 2016 | http://bombonera.org/oldboards/score2016/                                                                      | 
@@ -55,7 +54,7 @@ This folder contains all raw data as collected from the following sources:
 |                     | 2014 | http://bombonera.org/oldboards/score2014/                                                                      | 
 |                     | 2013 | http://bombonera.org/oldboards/score2013/                                                                      | 
 |                     | 2012 | http://bombonera.org/oldboards/score2012/score2012/                                                            | 
-|                     |      |                                                                                                                | 
+|   **South Pacific**                 |      |                                                                                                                | 
 | South Pacific       | 2018 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2018/Regional/FinalScoreboard2018.html                          | 
 |                     | 2017 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2017/Regional/FinalScoreboard.htm                               | 
 |                     | 2016 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2016/Regional/FinalScoreboard.htm                               | 
@@ -63,7 +62,7 @@ This folder contains all raw data as collected from the following sources:
 |                     | 2014 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2014/Regional/Scoreboard.html                                   | 
 |                     | 2013 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2013/Scoreboard.html                                            | 
 |                     | 2012 | http://public.webdev.aut.ac.nz/ACM/Scoreboards/2012/Scoreboard.html                                            | 
-|                     |      |                                                                                                                | 
+|  **North America**                    |      |                                                                                                                | 
 | East-Central NA     | 2018 | https://ecna18.kattis.com/standings/standalone                                                                 | 
 |                     | 2017 | https://ecna17.kattis.com/standings/standalone                                                                 | 
 |                     | 2016 | https://ecna16.kattis.com/standings/standalone                                                                 | 
