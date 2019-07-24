@@ -29,8 +29,3 @@ _Unless indicated, all years are present_
 ##### Latin America
 ##### South Pacific
 ##### World Finals
-
-## Data processing
-The following general pipeline was used to process the data WIP
-
-![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/blob/master/images/data_processing_steps.png "Data structure")
