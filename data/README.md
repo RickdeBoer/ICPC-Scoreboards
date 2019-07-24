@@ -1,3 +1,8 @@
+## Data structure
+The data is structured as is described in the ERD below.
+
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/blob/master/images/data_structure.png "Data structure")
+
 ## Notes
 Each of the files in this dataset is a separate part of the data, containing the following information: <br />
 * **Competition** contains basic information about competitions
