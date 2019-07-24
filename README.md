@@ -27,5 +27,8 @@ _Unless indicated, all years are present_
 * Southern California Regional Contest 
 
 ##### Latin America
+* Regional Finals
 ##### South Pacific
+* Regional Finals
 ##### World Finals
+* World Finals
