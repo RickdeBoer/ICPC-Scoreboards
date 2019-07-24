@@ -30,12 +30,6 @@ _Unless indicated, all years are present_
 ##### South Pacific
 ##### World Finals
 
-
-## Data structure
-The data is structured as is described in the ERD below.
-
-![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/blob/master/images/data_structure.png "Data structure")
-
 ## Data processing
 The following general pipeline was used to process the data WIP
 
