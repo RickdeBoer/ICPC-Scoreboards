@@ -1,7 +1,7 @@
 ## Data processing
 The following general pipeline was used to process the data. It comes down to reading in and structuring different parts of the data files.
 
-![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/blob/master/images/data_processing_steps.png "Data structure")
+![alt text](https://github.com/RickdeBoer/ICPC-Scoreboards/blob/master/imgs/data_processing_steps.png "Data structure")
 
 #### Explanation of processing steps
 * _locate_ and _collect_ resulted in the raw dataset in the 'raw data' folder.
