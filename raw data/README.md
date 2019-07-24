@@ -1,6 +1,6 @@
 ## Description
 This folder contains all raw data as collected from the following sources           
-
+|                     |      |                                                                                                                | 
 |---------------------|------|----------------------------------------------------------------------------------------------------------------| 
 | Competition         | Year | Source                                                                                                         | 
 | World Finals        | 2018 | https://web.archive.org/web/20180424212750/https://icpc.baylor.edu/scoreboard/                                 | 
