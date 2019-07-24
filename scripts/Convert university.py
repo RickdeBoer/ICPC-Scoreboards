@@ -7,7 +7,7 @@ from tqdm import tqdm
 import swifter
 import pickle
 
-inputfile = open(r"C:\Users\user\AllUnies.csv", encoding='utf8') #file containing all distinct universities in the dataset
+inputfile = open(r"C:\Users\user\AllUniversities.csv", encoding='utf8') #file containing all distinct universities in the dataset
 lines = reader(inputfile, delimiter =',')
 outputfile = open("Unicombis.csv", "w+", encoding='utf8')
 uni_countrydi = []
